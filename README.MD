@@ -1,1 +1,1 @@
-<img src="testing/latency_boxplot.png"/>
+<img src="test/latency_boxplot.png"/>
